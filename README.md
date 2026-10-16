@@ -1,6 +1,6 @@
 # video-check
 
-Skill Claude Code pour tes vidéos verticales (TikTok, Reels, Shorts). Deux commandes, tout tourne sur ton Mac :
+Skill Claude Code pour tes vidéos verticales (TikTok, Reels, Shorts). Deux commandes. Les mesures tournent sur ton Mac (les scripts n'envoient rien en ligne) ; Claude regarde ensuite les planches d'images et le rapport pour te répondre :
 
 - **Analyser une vidéo de référence** : coupes et changements image par image, planches de 2 images par seconde, transcription horodatée. Claude regarde les planches et te dit comment la vidéo est montée (accroche, rythme, plans, sous-titres, fin).
 - **Contrôler ta vidéo avant de publier** : format, texte dans la première seconde, voix et sous-titres, rythme, texte sous les boutons de TikTok / Instagram, appel à l'action, volume, couleurs. Rapport ✅ / ⚠️ / ❌ avec le moment exact de chaque défaut.

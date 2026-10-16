@@ -5,7 +5,7 @@ description: Analyse image par image d'une vidéo verticale (TikTok, Reels, Shor
 
 # video-check
 
-Deux commandes. Tout tourne sur le Mac de l'utilisateur : rien n'est envoyé en ligne.
+Deux commandes. Les mesures tournent sur le Mac de l'utilisateur ; les scripts n'envoient rien en ligne. Toi, tu regardes les planches d'images et le rapport (comme toute image qu'on te montre).
 
 `SKILL_DIR` = le dossier de ce fichier (en général `~/.claude/skills/video-check`).
 Python = `$SKILL_DIR/.venv/bin/python`. Si ce fichier ou `$SKILL_DIR/scripts/ocr` manque, lance d'abord `bash $SKILL_DIR/install.sh`.
