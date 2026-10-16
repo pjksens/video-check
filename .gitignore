@@ -1,0 +1,7 @@
+.venv/
+scripts/ocr
+__pycache__/
+*.controle.md
+*.controle.json
+*.couleur.jpg
+*.transcription.json
